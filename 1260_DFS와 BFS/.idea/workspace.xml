@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="201ad397-19e6-4d9d-8905-a70187d761e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../0809/1206_view/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0809/1206_view/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/1208_Flatten/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/1208_Flatten/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/1208_Flatten/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/1208_Flatten/s2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/1945_간단한 소인수분해/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/1945_간단한 소인수분해/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/4828_min_max/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/4828_min_max/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/4828_min_max/s2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/4831_전기버스/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/4831_전기버스/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/4834_숫자카드/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/4834_숫자카드/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/4835_구간합/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/4835_구간합/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/5789_현주의 상자 바꾸기/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/5789_현주의 상자 바꾸기/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0811/1209_sum/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0811/1209_sum/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0811/1209_sum/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0811/1954_달팽이_숫자/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0811/1954_달팽이_숫자/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0811/1954_달팽이_숫자/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0812/1210_Ladder1/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0812/1210_Ladder1/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0812/1210_Ladder1/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0812/1210_Ladder1/s2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0812/2001_파리퇴치/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0812/2001_파리퇴치/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0812/4836_색칠하기/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0812/4836_색칠하기/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0812/4837_부분집합의_합/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0812/4837_부분집합의_합/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0812/4839_이진탐색/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0812/4839_이진탐색/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0812/4843_특별한_정렬/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0812/4843_특별한_정렬/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0813/1213_string/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0813/1213_string/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0813/1213_string/test_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0813/1221_gns/GNS_test_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0813/1221_gns/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0813/1221_gns/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0813/1221_gns/s2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0814/6485_삼성시의 버스노선/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0814/6485_삼성시의 버스노선/s_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0814/6485_삼성시의 버스노선/s_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0817/1216_회문2/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0817/1216_회문2/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0817/1216_회문2/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0817/3143_가장_빠른_문자열_타이핑/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0817/3143_가장_빠른_문자열_타이핑/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0817/4861_회문/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0817/4861_회문/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0817/4864_문자열_비교/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0817/4864_문자열_비교/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0817/4865_글자수/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0817/4865_글자수/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0817/5432_쇠막대기_자르기/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0817/5432_쇠막대기_자르기/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0818/2005_파스칼의_삼각형/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0818/2005_파스칼의_삼각형/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0818/2005_파스칼의_삼각형/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0818/ex1/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0818/ex2/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0818/ex2/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0818/ex2/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0819/1219_길찾기/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0819/1219_길찾기/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0819/1219_길찾기/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0819/1234_비밀번호/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0819/1234_비밀번호/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0819/1234_비밀번호/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0819/4866_괄호검사/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0819/4866_괄호검사/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0819/4869_종이붙이기/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0819/4869_종이붙이기/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0819/4869_종이붙이기/sample_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0819/4871_그래프_경로/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0819/4871_그래프_경로/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0819/4873_반복문자_지우기/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0819/4873_반복문자_지우기/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0820/1859_백만장자_프로젝트/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0820/1859_백만장자_프로젝트/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0820/1859_백만장자_프로젝트/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0820/4408_자기_방으로_돌아가기/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0820/4408_자기_방으로_돌아가기/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0820/4408_자기_방으로_돌아가기/sample_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0821/1979_어디에_단어가_들어갈_수_있을까/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0821/1979_어디에_단어가_들어갈_수_있을까/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0821/1979_어디에_단어가_들어갈_수_있을까/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0823/1223_계산기2/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0823/1223_계산기2/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0823/1223_계산기2/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0829/1860_진기의_최고급_붕어빵/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0829/1860_진기의_최고급_붕어빵/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0829/1860_진기의_최고급_붕어빵/s1.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1391973339">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="9" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1126" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1126" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1740502765">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.7136895">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/s1.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="720">
+                  <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+                  <folding>
+                    <marker date="1630285258985" expanded="true" signature="54:261" ph="..." />
+                    <marker date="1630285258985" expanded="true" signature="272:277" ph="..." />
+                    <marker date="1630285258985" expanded="true" signature="272:496" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/input.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/input.txt" />
+        <option value="$PROJECT_DIR$/s1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="94" />
+    <option name="y" value="23" />
+    <option name="width" value="1635" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DFS와 BFS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DFS와 BFS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DFS와 BFS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.s1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="201ad397-19e6-4d9d-8905-a70187d761e6" name="Default Changelist" comment="" />
+      <created>1630282599801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630282599801</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="94" y="23" width="1635" height="1100" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24984346" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3284974" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45341614" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="visited" language="Python" />
+        <watch expression="link" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>link</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>visited</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../git hub/algo_study/b2606.py" />
+    <entry file="file://$PROJECT_DIR$/../../git hub/algo_study/b2164.py" />
+    <entry file="file://$PROJECT_DIR$/../../git hub/algo_study/b12034.py" />
+    <entry file="file://$PROJECT_DIR$/../../git hub/algo_study/b2644.py" />
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+          <folding>
+            <marker date="1630285258985" expanded="true" signature="54:261" ph="..." />
+            <marker date="1630285258985" expanded="true" signature="272:277" ph="..." />
+            <marker date="1630285258985" expanded="true" signature="272:496" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
