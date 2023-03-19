@@ -7,12 +7,9 @@ for tc in range(1, T+1):
     bricks = [list(map(int, input().split())) for _ in range(H)]
     print(bricks)
 
+    # 0-W 까지 열을 쭉 돌면서 dfs (curl N 회)
+    # dfs 내에서 터트리고 함수1 -> 내려주기 함수2
+    # 부순 벽돌 갯수 많을때마다 갱신
 
-    def brick_break(start, arr):
-        cnt = [0, 0] # idx, 부순 갯수 (max)
-        # 0-W 길이만큼 순회하면서 부순 갯수 세기
-        for w in range(W):
-            pass
 
-    for n in range(N): # 시작점
-        brick_break(0, n, copy.deepcopy(bricks))
+    # 기존 갯수 - 부순 벽돌 갯수
