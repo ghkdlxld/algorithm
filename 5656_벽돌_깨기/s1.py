@@ -27,7 +27,7 @@ for tc in range(1, T+1):
 
     # 0-W 까지 열을 쭉 돌면서 dfs (curl N 회)
     for j in range(W):
-        dfs(j, 0)
+        dfs(j, 1)
 
 
     # 부순 벽돌 갯수 많을때마다 갱신
