@@ -1,4 +1,5 @@
-import sys, copy
+import sys
+from collections import deque
 sys.stdin = open('sample_input.txt')
 
 T = int(input())
@@ -11,6 +12,15 @@ for tc in range(1, T+1):
     di = [0, 0, 1, -1]
     dj = [1, -1, 0, 0]
 
+    def bomb(i, j):
+        q = deque([])
+        while q:
+            pass
+
+
+    def gravity():
+        pass
+
     def dfs(w, curl):
         if curl == 3:
             return
@@ -19,8 +29,9 @@ for tc in range(1, T+1):
         for h in range(H):
             if bricks[h][w] != 0:
                 # 터트리기
-
+                bomb(h, w)
                 break
+            gravity()
 
     # dfs 내에서 터트리고 함수1 -> 내려주기 함수2
 
