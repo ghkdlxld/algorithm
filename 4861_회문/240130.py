@@ -1,4 +1,4 @@
-import sys
+import sys, copy
 sys.stdin = open('sample_input.txt')
 
 T = int(input())
@@ -7,11 +7,30 @@ for tc in range(1, T+1):
     arr = [list(input()) for _ in range(N)]
 
 
-    # 회문 찾는 함수 ( 가로만 비교 )
-    def find():
-        pass
+    def find(lst):
+        for i in range(N):
+            for j in range(N - M + 1):
+                words = ''.join(lst[i][j:j + M])
+                sdrow = words[::-1]
+                if words == sdrow:
+                    return words
+        return False
+
+
+    ans = find(arr)
+    if ans:
+        print('#{} {}'.format(tc, ans))
+
+    else:
+        arr_rev = copy.deepcopy(arr)
+        for a in range(N):
+            for b in range(N):
+                arr_rev[a][b] = arr[b][a]
+
+        print('#{} {}'.format(tc, find(arr_rev)))
 
 
 
-# arr 에서 한번 찾은후,
-# arr 뒤집어서 한번더 체크
+
+
+
